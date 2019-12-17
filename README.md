@@ -1,5 +1,5 @@
 # heart-disease-classification
-We have a data which classify the patients whether they have a heart disease or not according to features in it. We will try to use this data to create a model which predict if a patient has this disease or not. We will use logistic regression (classification) algorithm.
+We have a data set which classify the patients whether they have a heart disease or not according to features in it. We will try to use this data to create a model which predict if a patient has this disease or not. We will use logistic regression (classification) algorithm.
 
 
 Data contains <br>
